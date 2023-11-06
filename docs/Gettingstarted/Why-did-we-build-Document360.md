@@ -22,8 +22,3 @@ Regards,
 **Saravana Kumar**
 Founder - [Document360](https://document360.com){target="_blank"}
 
-* * *
-*PS: You can reach me anytime at saravana@document360.co*
-:::(Warning)
-This is a sample article, you can safely delete it.
-:::

@@ -10,6 +10,3 @@ The project admin settings section helps to configure various project level sett
 * Notification
 * Billing
 
-:::(Warning)
-This is a sample article, you can safely delete it.
-:::

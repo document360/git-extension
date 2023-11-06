@@ -5,9 +5,3 @@ For any great knowledge base you need a set of media assets like images, videos,
 * You can search the assets
 * Tag them for better organisation
 *  Star important ones for easy access
-
-***
-
-:::(Warning)
-This is a sample article, you can safely delete it.
-:::

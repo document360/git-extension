@@ -1,7 +1,5 @@
 At the start, it could be overwhelming to explore a new product. We wanted to give you some head start to start with the basics and then slowly explore the features at your phase. 
-:::(Info)
-Here are the 5 basic things for you to get started. Please spend a few minutes making the most out of the Document360 trial. 
-:::
+
 ## 1. View your knowledge base
 There are two parts to Document360. An admin portal (what you are seeing here) for authors to create content and a knowledge base site (can be public or private) for the end-users (like customers, internal teams, etc) to read the content. 
 
@@ -19,9 +17,7 @@ You can easily *add, delete, hide, rename, move* categories from the left-hand s
 * Sub-Categories can be created by either using the **fly-out menu** at any particular position or the **context menu** ". . ." at a specific category. Mouse over the categories and you'll see these options coming. 
 * You can move the categories across by simply drag and drop
 * You can perform Hide, Delete, Rename actions from the context menu
-:::(Warning)
-Technically there is no limit on the category hierarchy. However, we recommend do not go beyond 3 or 4 levels deep, so it's easy for readers to understand.
-:::
+
 ## 3. Manage Articles
 Articles are the core part of your knowledge base, you'll probably spend a vast majority of time writing and editing articles. 
 Let's take a look at some of the main features of article management to get started.
@@ -48,7 +44,3 @@ Over a period you'll explore all the features of the product (we created Feature
 * You can manage your team (add/remove) and set security and access rights via Settings>Project Admin>Team management.
 Hopefully, this little article would have given you the basic idea about the power of Document360 and help you get started. 
 Feel free to reach us any time if you need further help via the **Chat** (profile picture > chat with us)
-***
-:::(Warning)
-This is a sample article, you can safely delete it.
-:::

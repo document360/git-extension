@@ -3,14 +3,10 @@
 This detection would help users rectify or resolve the broken or not working links and provide a seamless experience to the reader.
 
 We have segmented the links status into three categories
-1. [**Working links**](https://api.document360.net/api/Analytics/GetLinkStatus/200){target="_blank"}
-2. [**Redirected links**](https://api.document360.net/api/Analytics/GetLinkStatus/301){target="_blank"}
-3. [**Broken links**](https://api.document360.net/api/Analytics/GetLinkStatus/404){target="_blank"}
+- [**Working links**](https://api.document360.net/api/Analytics/GetLinkStatus/200)
+- [**Redirected links**](https://api.document360.net/api/Analytics/GetLinkStatus/301)
+- [**Broken links**](https://api.document360.net/api/Analytics/GetLinkStatus/404)
 
 You can view the project's workspace and language level results in the links status overview page of the Analytics menu.
 
 The links status for individual articles can be viewed in the **Article analytics** section on the right side of the editor. You can also view the previously validated article level links reports in the main Link status overview page.
-
-:::(Warning) (Safe to delete)
-This is a sample article, you can safely delete it.
-:::

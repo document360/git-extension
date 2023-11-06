@@ -7,6 +7,3 @@ The knowledge base settings sections helps to configure various aspect of the en
 * Custom CSS/JavaScript
 * Integration
 
-:::(Warning)
-This is a sample article, you can safely delete it.
-:::
