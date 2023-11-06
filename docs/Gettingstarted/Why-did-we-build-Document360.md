@@ -20,5 +20,5 @@ I hope you'll find Document360 as a useful product for building your online know
 
 Regards,
 **Saravana Kumar**
-Founder - [Document360](https://document360.com){target="_blank"}
+Founder - [Document360](https://document360.com)
 

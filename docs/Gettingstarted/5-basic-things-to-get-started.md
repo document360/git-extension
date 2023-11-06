@@ -3,7 +3,7 @@ At the start, it could be overwhelming to explore a new product. We wanted to gi
 ## 1. View your knowledge base
 There are two parts to Document360. An admin portal (what you are seeing here) for authors to create content and a knowledge base site (can be public or private) for the end-users (like customers, internal teams, etc) to read the content. 
 
-Here is the link to your knowledge base [https://dev-and-qa-isssues.document360.net](https://dev-and-qa-isssues.document360.net){target="_blank"}. 
+Here is the link to your knowledge base [https://dev-and-qa-isssues.document360.net](https://dev-and-qa-isssues.document360.net). 
 
 The knowledge base then got two important factors. A professional-looking **Customize site - Home** and [the docs](https://dev-and-qa-isssues.document360.net/docs) (the knowledge base content).
 
