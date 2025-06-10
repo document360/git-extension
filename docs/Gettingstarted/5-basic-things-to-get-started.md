@@ -1,4 +1,4 @@
-At the start, it could be overwhelming to explore a new product. We wanted to give you some head start to start with the basics and then slowly explore the features at your phase. 
+At the start, it could be overwhelming to explore a new product. We wanted to give you some head start to start with the basics and then slowly explore the features at your phase. Dhilip kumaran
 
 ## 1. View your knowledge base
 There are two parts to Document360. An admin portal (what you are seeing here) for authors to create content and a knowledge base site (can be public or private) for the end-users (like customers, internal teams, etc) to read the content. 
